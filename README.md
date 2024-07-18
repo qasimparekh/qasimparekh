@@ -6,16 +6,16 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Qasim+Parekh" alt="Qasim Parekh" /></a>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Engineer;NextJS+Developer;Empowering+solution+creation+for+success;Tech+Evangelist&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Engineer;Full Stack+Developer;Empowering+solution+creation+for+success;Tech+Evangelist&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
 <!-- Social icons section -->
 <p align="center">
-<a href="https://asharib.live/"><img src="https://img.shields.io/badge/personal website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/itsasharib/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b5fbb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/codeashing"><img  alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1c96e9?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://asharib.medium.com/"><img  alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://qasimparekh.vercel.app/"><img src="https://img.shields.io/badge/personal website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b5fbb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/"><img  alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1c96e9?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://medium.com/"><img  alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -29,7 +29,7 @@
  </p></div>
 
 - 😎 One Developer Army 💪💪
-- 🔭 I’m currently working on a [lot of projects](https://www.youtube.com/) !!
+- 🔭 I’m currently working on a [lot of projects](https://github.com/qasimparekh?tab=repositories) !!
 - 🌱 I’m currently learning Web3 & Metaverse technologies 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Become a Cloud Architect and Web3 Developer
